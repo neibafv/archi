@@ -151,4 +151,16 @@
         xsi:type="archimate:Resource"
         href="Resource_id-46790ad9533f4d21b89afcc66e918c3b.xml#id-46790ad9533f4d21b89afcc66e918c3b"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-4f43c5b7bae042c790f11edbcdf867c5">
+    <bounds
+        x="1128"
+        y="120"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Resource"
+        href="Resource_id-82e602b4ee9a4ad3b155c31111021cb4.xml#id-82e602b4ee9a4ad3b155c31111021cb4"/>
+  </children>
 </archimate:ArchimateDiagramModel>
